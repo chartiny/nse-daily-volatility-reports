@@ -1,6 +1,23 @@
 
 # nse-daily-volatility-reports
 
+## July 2024
+
+| Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- |
+| 2024-07-01 | Monday     | [CSV](2024/nse-daily-volatility-report-2024-07-01.csv) (270 kB) | [MD](2024/nse-daily-volatility-report-2024-07-01.md) (351 kB) |
+| 2024-07-02 | Tuesday    | [CSV](2024/nse-daily-volatility-report-2024-07-02.csv) (260 kB) | [MD](2024/nse-daily-volatility-report-2024-07-02.md) (338 kB) |
+| 2024-07-03 | Wednesday  | [CSV](2024/nse-daily-volatility-report-2024-07-03.csv) (260 kB) | [MD](2024/nse-daily-volatility-report-2024-07-03.md) (338 kB) |
+| 2024-07-04 | Thursday   | [CSV](2024/nse-daily-volatility-report-2024-07-04.csv) (260 kB) | [MD](2024/nse-daily-volatility-report-2024-07-04.md) (338 kB) |
+| 2024-07-05 | Friday     | [CSV](2024/nse-daily-volatility-report-2024-07-05.csv) (260 kB) | [MD](2024/nse-daily-volatility-report-2024-07-05.md) (338 kB) |
+| 2024-07-08 | Monday     | [CSV](2024/nse-daily-volatility-report-2024-07-08.csv) (272 kB) | [MD](2024/nse-daily-volatility-report-2024-07-08.md) (353 kB) |
+| 2024-07-09 | Tuesday    | [CSV](2024/nse-daily-volatility-report-2024-07-09.csv) (262 kB) | [MD](2024/nse-daily-volatility-report-2024-07-09.md) (340 kB) |
+| 2024-07-10 | Wednesday  | [CSV](2024/nse-daily-volatility-report-2024-07-10.csv) (262 kB) | [MD](2024/nse-daily-volatility-report-2024-07-10.md) (341 kB) |
+| 2024-07-11 | Thursday   | [CSV](2024/nse-daily-volatility-report-2024-07-11.csv) (261 kB) | [MD](2024/nse-daily-volatility-report-2024-07-11.md) (340 kB) |
+| 2024-07-12 | Friday     | [CSV](2024/nse-daily-volatility-report-2024-07-12.csv) (262 kB) | [MD](2024/nse-daily-volatility-report-2024-07-12.md) (340 kB) |
+
+
+
 ## June 2024
 
 | Date | Day | CSV | Markdown |

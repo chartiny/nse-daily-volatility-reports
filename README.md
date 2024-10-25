@@ -18,6 +18,11 @@
 | 11 | 2024-10-16 | Wednesday | [CSV](2024/nse-daily-volatility-report-2024-10-16.csv)<br>263 kB | [MD](2024/nse-daily-volatility-report-2024-10-16.md)<br>342 kB |
 | 12 | 2024-10-17 | Thursday | [CSV](2024/nse-daily-volatility-report-2024-10-17.csv)<br>264 kB | [MD](2024/nse-daily-volatility-report-2024-10-17.md)<br>343 kB |
 | 13 | 2024-10-18 | Friday | [CSV](2024/nse-daily-volatility-report-2024-10-18.csv)<br>263 kB | [MD](2024/nse-daily-volatility-report-2024-10-18.md)<br>342 kB |
+| 14 | 2024-10-21 | Monday | [CSV](2024/nse-daily-volatility-report-2024-10-21.csv)<br>274 kB | [MD](2024/nse-daily-volatility-report-2024-10-21.md)<br>356 kB |
+| 15 | 2024-10-22 | Tuesday | [CSV](2024/nse-daily-volatility-report-2024-10-22.csv)<br>264 kB | [MD](2024/nse-daily-volatility-report-2024-10-22.md)<br>343 kB |
+| 16 | 2024-10-23 | Wednesday | [CSV](2024/nse-daily-volatility-report-2024-10-23.csv)<br>262 kB | [MD](2024/nse-daily-volatility-report-2024-10-23.md)<br>341 kB |
+| 17 | 2024-10-24 | Thursday | [CSV](2024/nse-daily-volatility-report-2024-10-24.csv)<br>263 kB | [MD](2024/nse-daily-volatility-report-2024-10-24.md)<br>342 kB |
+| 18 | 2024-10-25 | Friday | [CSV](2024/nse-daily-volatility-report-2024-10-25.csv)<br>264 kB | [MD](2024/nse-daily-volatility-report-2024-10-25.md)<br>342 kB |
 
 
 

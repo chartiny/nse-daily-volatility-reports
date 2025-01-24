@@ -18,6 +18,11 @@
 | 11 | 2025-01-15 | Wednesday | [CSV](2025/nse-daily-volatility-report-2025-01-15.csv)<br>265 kB | [MD](2025/nse-daily-volatility-report-2025-01-15.md)<br>345 kB |
 | 12 | 2025-01-16 | Thursday | [CSV](2025/nse-daily-volatility-report-2025-01-16.csv)<br>265 kB | [MD](2025/nse-daily-volatility-report-2025-01-16.md)<br>344 kB |
 | 13 | 2025-01-17 | Friday | [CSV](2025/nse-daily-volatility-report-2025-01-17.csv)<br>265 kB | [MD](2025/nse-daily-volatility-report-2025-01-17.md)<br>345 kB |
+| 14 | 2025-01-20 | Monday | [CSV](2025/nse-daily-volatility-report-2025-01-20.csv)<br>276 kB | [MD](2025/nse-daily-volatility-report-2025-01-20.md)<br>359 kB |
+| 15 | 2025-01-21 | Tuesday | [CSV](2025/nse-daily-volatility-report-2025-01-21.csv)<br>266 kB | [MD](2025/nse-daily-volatility-report-2025-01-21.md)<br>346 kB |
+| 16 | 2025-01-22 | Wednesday | [CSV](2025/nse-daily-volatility-report-2025-01-22.csv)<br>266 kB | [MD](2025/nse-daily-volatility-report-2025-01-22.md)<br>346 kB |
+| 17 | 2025-01-23 | Thursday | [CSV](2025/nse-daily-volatility-report-2025-01-23.csv)<br>265 kB | [MD](2025/nse-daily-volatility-report-2025-01-23.md)<br>345 kB |
+| 18 | 2025-01-24 | Friday | [CSV](2025/nse-daily-volatility-report-2025-01-24.csv)<br>266 kB | [MD](2025/nse-daily-volatility-report-2025-01-24.md)<br>346 kB |
 
 
 
